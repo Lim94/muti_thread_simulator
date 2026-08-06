@@ -1,0 +1,16 @@
+# 小样本轴承故障诊断及虚拟仿真微调软件 V1.0
+# Python 依赖清单
+# 安装命令：pip install -r requirements.txt
+
+# 数值计算与科学计算
+numpy>=1.21.0
+scipy>=1.7.0
+
+# 机器学习（ECOC-SVM分类器）
+scikit-learn>=1.0.0
+
+# 数据可视化（混淆矩阵、准确率对比图）
+matplotlib>=3.4.0
+
+# GUI界面（tkinter 为 Python 内置模块，无需额外安装）
+# Windows 系统通常已内置，若缺失请参考 README 安装说明
